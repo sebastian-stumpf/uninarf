@@ -16,15 +16,19 @@ I'm not providing any sort of liability and you should exercise some caution.
 
 ## BOM
 
-| Quantity  | Item                               | Comment                  |
-| --------- | ---------------------------------- | ------------------------ |
-| 1         | Seeed XIAO BLE                     |                          |
-| 1         | 74HC595 SO-16 Shift Register       | I used 74HC 595D NXP     |
-| 42        | 1N4148 SOD123 diodes               |                          |
-| 36        | Choc Hotswap Sockets               |                          |
-| 6         | Omrom 6mm Tact switches            | B3F-1002                 |
-| 36        | Choc Switches + Keycaps            |                          |
-| 8         | M2 Screws and Spacers              |                          |
+| Quantity  | Item                               | Comment                                                                            |
+| --------- | ---------------------------------- | ---------------------------------------------------------------------------------- |
+| 1         | Seeed XIAO BLE                     |                                                                                    |
+| 1         | 74HC595 SO-16 Shift Register       | I used 74HC 595D NXP                                                               |
+| 42        | 1N4148 SOD123 diodes               |                                                                                    |
+| 36        | Choc Hotswap Sockets               |                                                                                    |
+| 6         | Omrom 6mm Tact switches            | B3F-1002                                                                           |
+| 36        | Choc Switches + Keycaps            |                                                                                    |
+| 8         | M2 Screws and Spacers              |                                                                                    |
+| 1         | MSK12C02 power switch              |                                                                                    |
+| 1         | 1 S2B-PH-K-S(LF)(SN) jack          |                                                                                    |
+| 1         | 3.7v lipo battery                  | any size will do as long as it fits between the spacers. I've used a 500mAh 403040 |
+
 
 
 ## Feedback
